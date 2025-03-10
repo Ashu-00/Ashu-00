@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🎓 &nbsp; Studying Electronics and Communication engineering.
-  - 💼 &nbsp; I’m currently working on ML deployment related projects.
-  - 🔭 &nbsp; Experienced in HTML, CSS , JS , Node and Express.
+  - 💼 &nbsp; I’m currently working on NLP related projects, especially RL.
+  - 🔭 &nbsp; Experienced in Pytorch and Tensorflow Keras.
   - 🌱 &nbsp; Currently learning new technologies related to Deep Learning and LLMs.
   - 📫 &nbsp; Reach me at [Email](mailto:gautamranka777@gmail.com)  .
   - 🤔 &nbsp; Interested in DL, CV, NLP related projects.
